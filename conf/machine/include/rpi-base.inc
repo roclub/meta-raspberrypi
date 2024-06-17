@@ -67,6 +67,8 @@ RPI_KERNEL_DEVICETREE_OVERLAYS ?= " \
     overlays/w1-gpio.dtbo \
     overlays/w1-gpio-pullup.dtbo \
     overlays/wm8960-soundcard.dtbo \
+    overlays/tc358743.dtbo \
+    overlays/tc358743-audio.dtbo \
     "
 
 RPI_KERNEL_DEVICETREE ?= " \
