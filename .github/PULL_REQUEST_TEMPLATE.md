@@ -1,16 +1,16 @@
-<!--
-Please make sure you've read and understood our contributing guidelines.
+## Description
+<!--- Describe your changes in detail -->
 
-For additional information on the contribution guidelines:
-https://wiki.yoctoproject.org/wiki/Contribution_Guidelines#General_Information
+## Related Issue
+<!--- This project only accepts pull requests related to open issues -->
+<!--- If suggesting a new feature or change, please discuss it in an issue first -->
+<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
+<!--- Please link to the issue here: -->
 
-If this PR fixes an issue, make sure your description includes "fixes #xxxx".
+## Motivation and Context
+<!--- Why is this change required? What problem does it solve? -->
 
-If this PR connects to an issue, make sure your description includes "connected to #xxxx".
-
-Please provide the following information:
--->
-
-**- What I did**
-
-**- How I did it**
+## How Has This Been Tested?
+<!--- Please describe in detail how you tested your changes. -->
+<!--- Include details of your testing environment, and the tests you ran to -->
+<!--- see how your change affects other areas of the code, etc. -->
